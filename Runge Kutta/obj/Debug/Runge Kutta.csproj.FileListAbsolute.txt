@@ -1,0 +1,14 @@
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\bin\Debug\Runge Kutta.exe.config
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\bin\Debug\Runge Kutta.exe
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\bin\Debug\Runge Kutta.pdb
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\bin\Debug\MetroFramework.dll
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\obj\Debug\Runge Kutta.csprojAssemblyReference.cache
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\obj\Debug\Runge_Kutta.Form1.resources
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\obj\Debug\Runge_Kutta.Properties.Resources.resources
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\obj\Debug\Runge Kutta.csproj.GenerateResource.cache
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\obj\Debug\Runge Kutta.csproj.CoreCompileInputs.cache
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\obj\Debug\Runge Kutta.csproj.CopyComplete
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\obj\Debug\Runge Kutta.exe
+C:\Users\lordb\source\repos\Runge Kutta\Runge Kutta\obj\Debug\Runge Kutta.pdb
